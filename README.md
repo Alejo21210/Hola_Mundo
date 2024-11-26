@@ -1,4 +1,3 @@
-# Hola_mundo
 #EJERCICIO 1
 ##Alejandro Martinez
 
