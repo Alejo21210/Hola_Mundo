@@ -1,5 +1,5 @@
-#EJERCICIO 1
+# EJERCICIO 1
 
-##Alejandro Martinez
+## Alejandro Martinez
 
 Ejercicio con **github** y **git**
